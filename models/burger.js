@@ -20,6 +20,7 @@ var burger = {
             cb(res);
         });
     }
+    
 };
 
 //   delete: function(condition, cb) {
